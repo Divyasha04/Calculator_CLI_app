@@ -21,8 +21,10 @@ Features
  4. Run the Calculator
    Command: python calculator.py
    (or python3 calculator.py if needed)
-Example Usage
+
+
  Simple Python CLI Calculator
+ 
  Select an operation:
  1. Addition
  2. Subtraction
@@ -31,11 +33,19 @@ Example Usage
  5. Average
  6. Exit
  Enter your choice (1-6): 1
+
  Enter first number: 10
+ 
  Enter second number: 5
+ 
  Result: 15.0
+ 
  File Structure
+ 
  calculator.py    # Main Python program
+ 
  README.pdf       # This file (documentation)
+ 
  Author
+ 
  Divyasha Nayak
